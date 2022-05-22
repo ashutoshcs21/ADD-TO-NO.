@@ -1,0 +1,5 @@
+l1=list()#creates empty list
+for i in range(1,11):
+  a=i**i
+  l1.append(a)
+ print(l1)
